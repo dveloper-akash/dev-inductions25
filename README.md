@@ -1,8 +1,8 @@
-#Tasks For FOSSCell Dev Team Inductions
+# Tasks For FOSSCell Dev Team Inductions
 
-##Task 1  
+## Task 1  
 
-###Open Source Web Development Task  
+### Open Source Web Development Task  
 
 The goal is to build an  **end-to-end open source web application**, fully self-hosted, that uses an **open source database**, is **containerized**, and is structured in a way that you can **contribute parts of it back to open source** (docs, tooling, integrations, or fixes).
 
@@ -24,7 +24,7 @@ Similarly if services are decoupled and loosely connected i.e microservice archi
 
 For Hosting it is recommended that you self host your services. You may use any containerization platform of your choice(however we may ask you why you chose the specific platform).  
 
-###Do document all the steps.  
+### Do document all the steps.  
 
 As for containerization, you **must**
 - Write a `Dockerfile` for backend
