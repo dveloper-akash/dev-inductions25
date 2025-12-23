@@ -4,9 +4,9 @@
 You MUST submit atleast one task. To submit, make a PR [here](https://github.com/FOSSCellNITCalicut/dev-inductions25/pulls). Ensure that you submit no later than 11:59PM IST, 8th January, 2026. No force pushes! 
 
 Tasks -
-1. [Task 1](#Task-1) - Open Source Web Development
-2. [Task 2](#Task-2) - Mobile app development
-3. [Task 3](#Task-3) - QT desktop app
+1. [Task 1](#task-1) - Open Source Web Development
+2. [Task 2](#task-2) - Mobile app development
+3. [Task 3](#task-3) - QT desktop app
 
 ## Task 1  
 
