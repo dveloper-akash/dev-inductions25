@@ -4,6 +4,14 @@ BidByte is a **production-grade real-time auction platform** that enables users 
 
 It is designed with **scalability, correctness, and real-world architecture patterns** in mind, showcasing how modern web systems handle real-time data, background processing, and concurrency safely.
 
+## Links
+
+- **GitHub Repository:**  
+  [https://github.com/<your-username>/bidbyte](https://github.com/dveloper-akash/bidbyte)
+
+- **Live Website:**  
+  [https://<your-deployed-site-url>](https://bidbyte.vercel.app/)
+
 ---
 
 ## Features
